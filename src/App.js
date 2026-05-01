@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 
 // --- Central Bank Rates (update manually or via API) ---
 const CB_RATES = {
